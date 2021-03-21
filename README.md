@@ -1,5 +1,6 @@
-# livro de receitas
+#Livro de receitas
 
-ol�! Bem vindo ao meu livro de receitas.
+Olá! Bem vindo ao meu livro de receitas.
 
-- Strogonnof
+  - Strogonnof;
+  - Pavê;
